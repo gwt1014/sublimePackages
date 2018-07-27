@@ -7,6 +7,7 @@
 	[
 		"IMESupport",
 		"Package Control",
+		"Python PEP8 Autoformat",
 		"SublimePeek-R-help",
 		"SublimeREPL",
 		"Terminal"
