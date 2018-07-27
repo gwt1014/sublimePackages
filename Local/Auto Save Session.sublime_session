@@ -283,7 +283,6 @@
 					"settings":
 					{
 						"buffer_size": 835162,
-						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
@@ -297,10 +296,10 @@
 					}
 				},
 				{
-					"file": "/C/Users/GWT/pyfiles/ITcast/Tencent/scrapy.cfg",
+					"file": "/C/Users/GWT/pyfiles/ITcast/ITcast/settings.py",
 					"settings":
 					{
-						"buffer_size": 257,
+						"buffer_size": 3097,
 						"line_ending": "Unix"
 					}
 				},
@@ -309,6 +308,15 @@
 					"settings":
 					{
 						"buffer_size": 3077,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/GWT/pyfiles/ITcast/Tencent/tencent.json",
+					"settings":
+					{
+						"buffer_size": 228389,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -399,7 +407,12 @@
 			[
 				"/C/Users/GWT/pyfiles/ITcast",
 				"/C/Users/GWT/pyfiles/ITcast/ITcast",
-				"/C/Users/GWT/pyfiles/ITcast/Tencent"
+				"/C/Users/GWT/pyfiles/ITcast/ITcast/spiders",
+				"/C/Users/GWT/pyfiles/ITcast/Tencent",
+				"/C/Users/GWT/pyfiles/ITcast/Tencent/Tencent",
+				"/C/Users/GWT/pyfiles/ITcast/Tencent/Tencent/__pycache__",
+				"/C/Users/GWT/pyfiles/ITcast/Tencent/Tencent/spiders",
+				"/C/Users/GWT/pyfiles/ITcast/Tencent/Tencent/spiders/__pycache__"
 			],
 			"file_history":
 			[
@@ -468,7 +481,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
@@ -496,7 +509,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 8,
 							"type": "text"
 						},
 						{
@@ -524,7 +537,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 9,
 							"type": "text"
 						},
 						{
@@ -549,10 +562,10 @@
 									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 54.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -580,7 +593,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
@@ -608,7 +621,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
@@ -633,19 +646,19 @@
 									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 162.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
 							"buffer": 6,
-							"file": "/C/Users/GWT/pyfiles/ITcast/Tencent/scrapy.cfg",
+							"file": "/C/Users/GWT/pyfiles/ITcast/ITcast/settings.py",
 							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 257,
+								"buffer_size": 3097,
 								"regions":
 								{
 								},
@@ -658,13 +671,13 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -680,13 +693,41 @@
 								"selection":
 								[
 									[
-										797,
-										797
+										3077,
+										3077
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 864.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Users/GWT/pyfiles/ITcast/Tencent/tencent.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 228389,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -696,7 +737,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 8,
+							"buffer": 9,
 							"file": "/C/Users/GWT/pyfiles/ITcast/Tencent/Tencent/middlewares.py",
 							"semi_transient": false,
 							"settings":
@@ -722,7 +763,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -768,7 +809,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/python361.sublime-build",
-			"position": "0,0,2,-32000,-32000,-1,-1,1003,1017,97,1848",
+			"position": "0,2,3,-32000,-32000,-1,-1,1003,1017,97,1848",
 			"project": "",
 			"replace":
 			{
